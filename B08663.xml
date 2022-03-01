@@ -1,0 +1,133 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Thomas Rowney Gent, executor of Edward Twyford Gent in trust for the said Twyford's children.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08663</idno>
+            <idno type="STC">Wing C1188A</idno>
+            <idno type="STC">ESTC R227786</idno>
+            <idno type="EEBO-CITATION">61296909</idno>
+            <idno type="OCLC">ocm 61296909</idno>
+            <idno type="VID">180491</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08663)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180491)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2831:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Thomas Rowney Gent, executor of Edward Twyford Gent in trust for the said Twyford's children.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rowney, Thomas --  Estates.</term>
+               <term>Twyford, Edward, --  gent.</term>
+               <term>Warcupp, Edmond, --  Sir.</term>
+               <term>Decedents' estates --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:180491:1" rendition="simple:additions"/>
+            <head>THE CASE OF THOMAS ROWNEY Gent. Executor of EDWARD TWYFORD Gent.</head>
+            <head type="sub">In truſt for the ſaid <hi>TWYFORD</hi>'s Children.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE ſaid <hi>Edward Twyford</hi> about <hi>Michaelmas</hi> Term 1669, being aged; infirm and indebted to ſeveral perſons, Agrees to ſell the Mannor of <hi>North-Moor,</hi> with the Appurtenan<g ref="char:EOLhyphen"/>ces, in the County of <hi>Oxford,</hi> to <hi>Edmond Warcupp</hi> Eſq; (now Sir <hi>Edmond Warcupp</hi> Knight,) for payment of his Debts, and raiſing Portions for his Children. And Ar<g ref="char:EOLhyphen"/>ticles of Agreement were made between them therein; At which time there were Suites depending in <hi>Twyford</hi>'s Name, touching the Encloſing of two large Commons part of the ſaid Mannor and which ſince the Purchaſe, are incloſed accordingly.</p>
+            <p>Sir <hi>Edmond Warcupp</hi> at the firſt Diſcourſe, much preſt to have a Particular, but Mr. <hi>Twyford.</hi> being then in <hi>London,</hi> Declared he was not able to make one, but however, at Sir <hi>Edmond Warcupp</hi>'s Importunity, Did as well as he could, make a Particular, and delivered it to Sir <hi>Edmond Warcupp,</hi> By which the Premiſſes at twenty years Purchaſe (which is the uſual Rate in that Country) came to 9600 <hi>l.</hi> But Sir <hi>Edmond Warcupp</hi> refuſing to purchaſe at thoſe Terms, the Particular was wholly laid aſide, and the Parties agreed by the Lump; and Sir <hi>Edmond Warcupp</hi> was onely to give 6500 <hi>l.</hi> for the Purchaſe; ſo much having been before offered for it by others.</p>
+            <p>Nevertheleſs, when the Articles came to be Sealed, Sir <hi>Edmond Warcupp</hi> had Annexed the ſaid Particular thereto, and had alſo incerted a Covenant into the Articles, that <hi>Twyford</hi> ſhould make good the ſaid Particular, both as to the quantity and quality. But <hi>Twyford</hi> poſitively refuſed to Seal the Articles, until Sir <hi>Edmond War<g ref="char:EOLhyphen"/>cupp</hi> promiſed that no other uſe ſhould be made of the ſaid Particular, other than to find out the purchaſed Lands.</p>
+            <p>The Articles being thus Sealed, the Conveyances were for ſome time reſpited at Sir <hi>Edmond Warcupp</hi>'s deſire, leſt the Suits then depending, touching the ſaid Incloſures ſhould abate.</p>
+            <p>But the Conveyances being afterwards Sealed, and the Purchaſe Money not paid, <hi>Twyford</hi> in 1673, Exhibited his Bill in Chancery againſt Sir <hi>Edmond Warcupp</hi> to have his Purchaſe Money paid, To which the ſaid Sir <hi>Edmond Warcupp</hi> put in a very long Anſwer, and alſo for vexation, Exhibited a long croſs Bill againſt the ſaid <hi>Twyford,</hi> to have an Allowance for pretended Defects in the Particular, and for the Charges of Encloſing the ſaid Commons which were agreed to be done at his own Charge: And ſeveral Witneſſes were Examined in the Caſe to <hi>Twy<g ref="char:EOLhyphen"/>ford</hi>'s great Charge. Sir <hi>Edmond Warcupp</hi> (who was a priviledged perſon in Chancery) endeavouring by the ſaid long Bill, Anſwer, and Depoſitions, to diſable the ſaid <hi>Twyford</hi> from proſecuting his ſaid Suit; who had no other Eſtate to pay his Debts, or to maintain, or provide for himſelf and ſeven Children than what was in Sir <hi>Ed<g ref="char:EOLhyphen"/>mond Warcupp</hi>'s hands.</p>
+            <p>That the ſaid <hi>Twyford</hi> at laſt by the Aſſiſtance of Friends brought the ſaid Cauſe to Hearing in <hi>Hillary</hi> Term 1675, and obtained a Decree for the Payment of the Arrear Purchaſe-Money, but before the ſaid Decretal Order was drawn up, the ſaid <hi>Twyford</hi> died, having made the ſaid <hi>Rowney</hi> his Executor in Truſt for his Chil<g ref="char:EOLhyphen"/>dren.</p>
+            <p>That Sir <hi>Edmond Warcupp</hi> entred a CAVEAT againſt the Probate of the ſaid Will, and alſo Moved againſt the Inrolling of the ſaid Decree, but the Will being proved, and the Decree Inrolled, he after Exhibits a Bill of Re<g ref="char:EOLhyphen"/>view againſt the ſaid <hi>Rowney</hi> of 120 ſheets of Paper, and aſſigned fifteen Errors, which upon a long Debate by Council were over-ruled about eight years ſince.</p>
+            <p>That ever ſince the Over-ruling the ſaid Errors, the ſaid <hi>Rowney</hi> hath been labouring to bring Sir <hi>Edmond War<g ref="char:EOLhyphen"/>cupp</hi> to an Account before the Maſter, and to that purpoſe hath taken out above 60 Warrants, and ſerved Sir <hi>Ed<g ref="char:EOLhyphen"/>mond Warcupp</hi> therewith, but cannot yet get the Account ſtated.</p>
+            <p>That Sir <hi>Edmond Warcupp</hi> hath endeavoured to prove Payment of the Purchaſe Money by ſeveral miſtaken Acquittances, which being diſallowed by the Maſter, Sir <hi>Edmond Warcupp</hi> for further delay hath Appealed from the ſaid Decree to the Houſe of Peers.</p>
+            <p>That the ſaid <hi>Rowney</hi> never received one penny of the Eſtate of the ſaid <hi>Twyford,</hi> but hath expended above 300 <hi>l.</hi> in the proſecuting of the ſaid Suit on the behalf of the Poor Children.</p>
+            <p>That there is at leaſt 1500 <hi>l.</hi> of the Purchaſe Money beſides Intereſt ſince Sealing the ſaid Articles, in the hands of the ſaid Sir <hi>Edmond Warcupp,</hi> and the Poor Children of the ſaid <hi>Twyford</hi> want Bread.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
